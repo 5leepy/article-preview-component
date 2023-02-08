@@ -1,5 +1,9 @@
+
+let shareOpen = false;
+
 document.getElementById('toggle-overlay').addEventListener('click',function(){
-	document.getElementById('overlay').style.display = "flex";
+	shareOpen = shareOpen ? false : true;
+	document.getElementById('overlay').style.display = shareOpen ? 'none' : 'flex';
 });
 
 
