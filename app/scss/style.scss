@@ -108,7 +108,7 @@ body {
 
         }
     }
-    @include breakpoint(large) {
+    @include breakpoint(medium) {
         max-width: rem(730);
         display: grid;
         grid-template-columns: 39.2%  61%;
