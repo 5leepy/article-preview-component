@@ -1,0 +1,6 @@
+node_modules/
+master/
+*.sketch
+*.xd
+*.fig
+.DS_Store

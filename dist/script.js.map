@@ -1,0 +1,1 @@
+{"version":3,"file":"script.js","names":["document","getElementById","addEventListener","style","display","console","log","test"],"sources":["script.js"],"mappings":"AAAAA,SAASC,eAAe,kBAAkBC,iBAAiB,SAAQ,WAClEF,SAASC,eAAe,WAAWE,MAAMC,QAAU,MACpD,IAGAC,QAAQC,IAAI,SAEZ,MAAMC,KAAO,KACZF,QAAQC,IAAI,iBAAiB"}
