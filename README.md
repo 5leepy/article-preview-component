@@ -5,6 +5,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 ### The challenge
 - Making the Grid Work
 - The tooltip is quit hard to align
+- Matching the image position
 - I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ### Screenshot
@@ -13,7 +14,7 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solutions URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-PzZJNMQfvF)
+- Solutions URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-L7tqCFxNsZ)
 - Live Site URL: [Netlify](https://5leepy-article-preview-component.netlify.app/)
 
 ### Built with
